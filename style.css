@@ -1,0 +1,28 @@
+a.navbar-brand {
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+ul.navbar-nav {
+    font-weight: 700;
+}
+#navbarNav { 
+    display: flex;
+}
+.img{ 
+    width: 300px;height: 350px;
+}
+
+.About{
+    margin-top:10%;
+}
+.textt p{
+    font-size:20px ;
+}
+.textt h1{
+    font-size:80px ;
+}
+.Agon {
+margin-top:3%;
+font-size:30px ;
+}
