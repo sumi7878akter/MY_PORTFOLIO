@@ -26,3 +26,15 @@ ul.navbar-nav {
 margin-top:3%;
 font-size:30px ;
 }
+#yourname{
+    width: 300px;
+
+}
+#email{
+    width: 300px; 
+    margin-top: 2%; 
+}
+#text{
+    width: 300px;  
+    margin-top: 2%; 
+}
